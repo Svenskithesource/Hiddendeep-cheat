@@ -6,4 +6,5 @@ Don't look at the offset names. I tried to use the same format as the CSGO offse
 ## Installation
 
 `pip install -r requirements.txt`
-`python main.py`
+
+To run it do `python main.py`
